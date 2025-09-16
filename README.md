@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://harsh-gupta-07.github.io/Portfolio/](https://harsh-gupta-07.github.io/Portfolio/)
-
 - 📫 How to reach me **harshvardhangofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
