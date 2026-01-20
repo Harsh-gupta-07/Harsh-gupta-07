@@ -14,10 +14,11 @@ I’m a software developer who enjoys building **real-world full-stack applicati
 - C++
 
 **Frontend**
+- Vite.js
 - Next.js
 - React
 - Tailwind CSS
-- daisyUI
+- DaisyUI
 
 **Backend**
 - Node.js
@@ -36,7 +37,6 @@ I’m a software developer who enjoys building **real-world full-stack applicati
 
 **Tools**
 - Git & GitHub
-- Docker (basics)
 - Vercel, Render
 - macOS
 
